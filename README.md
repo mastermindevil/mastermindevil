@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mastermindevil
+- 👀 I’m interested in Coding and problem solvings
+- 🌱 I’m currently pursuing a degree in Computer science and Engineering
